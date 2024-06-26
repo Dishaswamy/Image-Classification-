@@ -13,5 +13,5 @@ Conv2D: Convolutional layers for feature extraction
 MaxPooling2D: Max pooling layers for downsampling
 Flatten: Flattening the 2D arrays into a 1D vector
 Dense: Fully connected layers for classification
-Dropout: Dropout layers to prevent overfitting
+
 
