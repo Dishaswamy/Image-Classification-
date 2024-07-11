@@ -15,7 +15,12 @@ Flatten: Flattening the 2D arrays into a 1D vector
 Dense: Fully connected layers for classification
 
 Result:
-the model could efficiently classify the images givng a high accuracy of near to 100%.
+Training and Validation Accuracy:
+The model achieved an accuracy of approximately 100% on the training dataset, indicating that it learned the features and patterns associated with the "happy" and "sad" images effectively.
+During the validation phase, the model maintained a high accuracy, close to 100%, which suggests that the model generalized well to unseen data and did not overfit.
+
+Loss and Accuracy Graphs:
+The training and validation loss graphs showed a steady decrease, and the accuracy graphs demonstrated an upward trend, which signifies that the model was learning effectively and improving with each epoch.
 ![image](https://github.com/Dishaswamy/Image-Classification-/assets/136960301/38a04346-8ecc-4280-bc74-9bf230a3f8c3)
 ![image](https://github.com/Dishaswamy/Image-Classification-/assets/136960301/18b9d08e-701e-400a-bab8-b7f9d4fbc9ac)
 
