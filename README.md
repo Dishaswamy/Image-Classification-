@@ -15,6 +15,7 @@ Flatten: Flattening the 2D arrays into a 1D vector
 Dense: Fully connected layers for classification
 
 Result:
+
 Training and Validation Accuracy:
 The model achieved an accuracy of approximately 100% on the training dataset, indicating that it learned the features and patterns associated with the "happy" and "sad" images effectively.
 During the validation phase, the model maintained a high accuracy, close to 100%, which suggests that the model generalized well to unseen data and did not overfit.
